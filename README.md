@@ -13,3 +13,6 @@
 shipment.
 - With the Logistify extension, comparing quotes from multiple LTL carriers is as easy as
 clicking the **L** button next to the 'Ship Via' field.
+
+Website: <http://www.logistify.co>
+<br/>Twitter: [@LogistifyMe](https://twitter.com/LogistifyMe)
